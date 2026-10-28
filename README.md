@@ -1,6 +1,11 @@
 🛡️ Network Security IP Range Scanner
 A full-stack web application for discovering active/inactive hosts within an IP address or CIDR range, built with a Flask backend and a vanilla HTML/CSS/JS frontend.
 
+
+LIVE DEMO LINK
+ https://network-security-ip-range-scanner-fzz0.onrender.com
+ 
+
 ⚠️ Authorization Notice This tool is intended only for scanning networks and IP ranges that you own or are explicitly authorized to test. Unauthorized scanning of third-party networks may be illegal in your jurisdiction and can violate acceptable-use policies of your ISP, employer, or cloud provider. By using this tool you confirm you have permission to scan the target range. The authorization warning is also displayed prominently in the web UI.
 
 1. Objective
